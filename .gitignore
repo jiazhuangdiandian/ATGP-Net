@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+.Python
+*.so
+*.pth
+*.pt
+*.bin
+*.dat
+*.npy
+*.npz
+*.log
+outputs/
+checkpoints/
